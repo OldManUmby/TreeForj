@@ -1,3 +1,5 @@
+![Logo](Logo.png)
+
 # Treeforj
 
 An ASCII tree diagram and structure generator. Designed and tested for AI readability.
