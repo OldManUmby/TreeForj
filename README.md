@@ -2,7 +2,7 @@
 
 # Treeforj
 
-An ASCII tree diagram and structure generator. Designed and tested for AI readability.
+An ASCII tree diagram and structure generator. Designed and tested for AI readability. 
 
 ## Input Methods
 
