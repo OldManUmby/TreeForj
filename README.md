@@ -98,3 +98,4 @@ Root/           # Main project folder
 - All settings are saved automatically between sessions.
 - Theme settings are `ON` by default for better visualization.
 - Display settings are `OFF` by default for cleaner output.
+- You can also run this from your desktop; download the latest release and open the `index.html` in any browser.
